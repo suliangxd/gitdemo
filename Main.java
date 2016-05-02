@@ -1,5 +1,6 @@
 /**
  * Created by Liang on 16/5/2.
+ * No.7-2
  */
 public class Main {
 
